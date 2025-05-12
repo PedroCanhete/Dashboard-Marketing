@@ -24,3 +24,5 @@ Por meio da construção de dashboards interativos e painéis com insights direc
 - Engajamento geral dos usuários
 - Conversão de novos usuários
 - Interpretação dos dados e geração de insights acionáveis.
+
+### Veja a Dashboard Completa e Análises [Aqui](https://app.powerbi.com/groups/me/reports/fd56a291-bf0e-4449-be7b-5abca40d5680/0af7fd7342333956aad0?experience=power-bi)
